@@ -1,1 +1,1 @@
-# pplied-Data-Science-Specialization
+# Statistics Theory
